@@ -11,5 +11,5 @@ iv) Remove common non-sensical text (\n) <br>
 v) Remove stop words
 ## Organized data in two standard text formats:
 a) Corpus - corpus is a collection of texts, and they are all put together neatly in a pandas
-dataframe here.
+dataframe here.<br>
 b) Document-Term Matrix - word counts in matrix format
